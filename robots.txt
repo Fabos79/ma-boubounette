@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fabos79.github.io/ma-boubounette/sitemap.xml
